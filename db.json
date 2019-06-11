@@ -1,6 +1,6 @@
 {  
   "account" : [
-	{ "id": 1, "title": "Food&Drinks" },
+	{ "id": "me", "title": "Me" },
 	{ "id": 2, "title": "Welness&Spa" },
 	{ "id": 3, "title": "Electronic Equipment" }
   ],
